@@ -3,7 +3,7 @@
 <h2>CyberSecurity Projects:</h2>
 
 - <b>Microsoft Sentinel SIEM and Honeypot Lab</b>
-  - [Repository Here](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Repository Here](https://github.com/AustinKLaw/AzureSIEMLab)
   - Created a fresh VM with Azure
   - Exposed its ports
   - Logged RDP login attempts, monitored and plotted them with Sentinel
@@ -12,7 +12,7 @@
 <h2>Coding:</h2>
 
 - <b>C# Projects</b>
-  - [Anonymous Repository Here](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Anonymous Repository Here](https://github.com/ace9653)
   - Contributed to mods with other developers
   - Learned to read and reference existing API's
   - Learned general Git practice
