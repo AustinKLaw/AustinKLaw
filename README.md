@@ -1,4 +1,4 @@
-<h1>Hey, I'm Austin! <br/><a href="https://github.com/AustinKLaw">Aspiring Cybersecurity Professional</a> and <a href="https://github.com/AustinKLaw">Programmer</a>
+<h1>Hey, I'm Austin! <br/><a href=linkedin.com/in/austin-k-law1>Aspiring Cybersecurity Professional</a> and <a href="https://github.com/AustinKLaw">Programmer</a>
 
 <h2>CyberSecurity Projects:</h2>
 
@@ -21,4 +21,4 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: linkedin.com/in/austin-k-law1
