@@ -1,4 +1,4 @@
-<h1>Hey, I'm Austin! <br/><a href=linkedin.com/in/austin-k-law1>Aspiring Cybersecurity Professional</a> and <a href="https://github.com/AustinKLaw">Programmer</a>
+<h1>Hey, I'm Austin! <br/><a href=https://linkedin.com/in/austin-k-law1>Aspiring Cybersecurity Professional</a> and <a href="https://github.com/AustinKLaw">Programmer</a>
 
 <h2>CyberSecurity Projects:</h2>
 
